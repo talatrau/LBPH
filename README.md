@@ -1,5 +1,8 @@
 # Face Recognition with LBPH
 
+### Process pipeline
+<img src="https://github.com/talatrau/LBPH/blob/master/flow.png" />
+
 ### Required package
 * opencv2
 * itertools
