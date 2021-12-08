@@ -15,4 +15,4 @@ python test.py
 ```
 
 ### Result
-![alt text](https://github.com/talatrau/LBPH/blob/master/result.png)
+<img src="https://github.com/talatrau/LBPH/blob/master/result.png" height=600/>
