@@ -1,4 +1,4 @@
-*.png
+[0-9]+.png
 code.py
 __pycache__
 model/distributions
